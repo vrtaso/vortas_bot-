@@ -1,0 +1,29 @@
+{
+  "name": "vortas-store-bot",
+  "version": "2.0.0",
+  "description": "Telegram бот для VORTAS STORE",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "store",
+    "orders",
+    "api"
+  ],
+  "author": "VORTAS",
+  "license": "Private",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3",
+    "express": "^4.21.2",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

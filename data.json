@@ -1,0 +1,38 @@
+{
+  "orders": [],
+  "users": [
+    [
+      8379184940,
+      {
+        "id": 8379184940,
+        "username": "DOX22800",
+        "firstName": "VORTAS DESIGN",
+        "joinedAt": 1774589577187,
+        "ordersCount": 1,
+        "lastActive": 1774633645425
+      }
+    ],
+    [
+      7540943060,
+      {
+        "id": 7540943060,
+        "username": "vrtas",
+        "firstName": "VRT∀SO",
+        "joinedAt": 1774591863950,
+        "ordersCount": 2,
+        "lastActive": 1774638278305
+      }
+    ],
+    [
+      5690957953,
+      {
+        "id": 5690957953,
+        "username": "yarka143",
+        "firstName": "fish🐽",
+        "joinedAt": 1774596891841,
+        "ordersCount": 0,
+        "lastActive": 1774597009085
+      }
+    ]
+  ]
+}
